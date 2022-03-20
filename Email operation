@@ -1,3 +1,4 @@
+//accepted
 class Email{
 // Implement Email Class according to the specifiaction.
 	Header header;
